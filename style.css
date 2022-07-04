@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+}
+
+h3{
+    color: darkblue;
+}
+#camera, #result{
+    border: 3px white dashed ;
+    width: 350px;
+    height: 350px;
+}
+span{
+    color: green;
+}
